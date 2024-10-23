@@ -24,7 +24,7 @@ class ViewController: UIViewController {
             carouselView.leadingAnchor.constraint(equalTo: view.leadingAnchor),
             carouselView.trailingAnchor.constraint(equalTo: view.trailingAnchor),
             carouselView.centerYAnchor.constraint(equalTo: view.centerYAnchor),
-            carouselView.heightAnchor.constraint(equalToConstant: 300)
+            carouselView.heightAnchor.constraint(equalToConstant: 350)
         ])
     }
 }
